@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Bresenhams'  Line.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\Wambui\source\repos\Bresenhams'  Line\Bresenhams'  Line\main.cpp(22,9): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wambui\source\repos\Bresenhams'  Line\Bresenhams'  Line\main.cpp(22,32): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  Bresenhams'  Line.vcxproj -> C:\Users\Wambui\source\repos\Bresenhams'  Line\Debug\line.exe
